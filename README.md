@@ -18,9 +18,9 @@ TEE安全可信网关组件应满足：
 6.（加分项）框架应兼容多种网络形态，并支持N:M网络通信，即任意数量的客户端可以与任意数量的服务器进行安全通信，解决两个网络内任意C/S（客户端/服务器）应用间的安全可信通信问题。
 7.（加分项）在推理客户端也是TEE的情况下，能够让推理服务端验证出推理客户端是符合预期的TEE。
 ## 已有参考资料
-[1] 龙蜥社区机密计算SIG：https://openanolis.cn/sig/coco
-[2] rats-tls开源项目：https://github.com/inclavare-containers/rats-tls
-[3] 建议基于开源社区已有的开源网关项目，以功能扩展的方式满足上述特征
+- 龙蜥社区机密计算SIG：https://openanolis.cn/sig/coco
+- rats-tls开源项目：https://github.com/inclavare-containers/rats-tls
+- 建议基于开源社区已有的开源网关项目，以功能扩展的方式满足上述特征
 ## 赛题分类
 2.5.3 安全应用（加密等）  
 ## 参赛要求
